@@ -1,20 +1,35 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  <img width="1200" height="475" alt="AI Platform Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  
+  <br/>
+
+  # 🚀 Plateforme Développeur IA
+  **Votre hub centralisé pour la gestion des clés API IA et des abonnements Premium.**
 </div>
 
-# Run and deploy your AI Studio app
+<br/>
 
-This contains everything you need to run your app locally.
+## 📖 À propos du projet
+Cette plateforme full-stack a été conçue pour offrir aux développeurs un environnement de travail moderne et sécurisé. Elle permet la gestion complète des comptes utilisateurs, la génération et le suivi des clés d'API d'intelligence artificielle, ainsi que l'intégration d'un système de facturation pour les accès Premium.
 
-View your app in AI Studio: https://ai.studio/apps/171c3e61-0075-4d4e-88c7-3c4571756418
+## ✨ Fonctionnalités Principales
+- 🔐 **Authentification Sécurisée** : Connexion, inscription et gestion des profils développeurs.
+- 🔑 **Gestion des Clés API** : Génération instantanée, révocation et suivi de l'utilisation des jetons.
+- 💳 **Passerelle de Paiement** : Système de facturation simulé pour les abonnements Premium.
+- ⚡ **Interface Moderne & Fluide** : Design ultra-allégé avec des micro-animations et un thème sombre (Dark Mode) professionnel.
 
-## Run Locally
+## 🛠️ Stack Technique (Environnement)
+- **Frontend** : React, Vite, TypeScript
+- **Backend** : Node.js
+- **Base de données** : Moteur relationnel (SQL/JSON persistant)
+- **IA** : Google Gemini API
 
-**Prerequisites:**  Node.js
+---
 
+## 🚀 Comment lancer le projet en local ?
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Prérequis :** Assurez-vous d'avoir [Node.js](https://nodejs.org/) installé sur votre machine.
+
+**1. Installez les dépendances du projet :**
+```bash
+npm install

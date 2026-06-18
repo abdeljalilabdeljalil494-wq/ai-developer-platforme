@@ -1,0 +1,6 @@
+{
+  "name": "Plateforme IA Developpeur",
+  "description": "Une plateforme complete pour developpeurs : gestion de compte utilisateur, generation de cles d'API, tableau de bord d'analyse de trafic, passerelle de paiement securisee pour abonnements Premium, et bac a sable (Playground) d'integration pour tester l'API Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

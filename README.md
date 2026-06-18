@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="1200" height="475" alt="AI Platform Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-  
+ <img width="1402" height="727" alt="Capture d&#39;écran 2026-06-18 182517" src="https://github.com/user-attachments/assets/26624dab-4983-4e53-a285-677b54fb9840" />
+<img width="1401" height="727" alt="Capture d&#39;écran 2026-06-18 182440" src="https://github.com/user-attachments/assets/0e012d89-a884-457e-a6be-9548f401e3a0" />
+
   <br/>
 
   # 🚀 Plateforme Développeur IA
